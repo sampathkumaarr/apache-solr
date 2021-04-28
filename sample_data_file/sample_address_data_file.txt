@@ -1,0 +1,22 @@
+ID~POST_CODE~POST_TOWN~STREET~STREET_NUMBER~PREMISE~SUB_PREMISE~ORG_NAME~ADDRESS_LINE
+1~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat1~a~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat1
+2~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat2~b~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat2
+3~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat3~c~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat3
+4~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat4~d~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat4
+5~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat5~e~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat5
+6~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat6~f~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat6
+7~BT71 6HX~Dungannon~Clonmore Road~120~Rose Cottage~Flat7~g~BT71 6HX Dungannon Clonmore Road 120 Rose Cottage Flat7
+8~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat1~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat1
+9~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat2~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat2
+10~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat3~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat3
+11~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat4~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat4
+12~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat5~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat5
+13~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat6~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat6
+14~IP1 2HG~Ipswich~London Road~70~Rose Cottage~Flat7~~IP1 2HG Ipswich London Road 70 Rose Cottage Flat7
+15~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment1~a~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment1
+16~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment2~b~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment2
+17~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment3~c~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment3
+18~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment4~d~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment4
+19~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment5~e~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment5
+20~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment6~f~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment6
+21~BT71 6HX~Dungannon~Clonmore Avenue~120~Rose Cottage~Apartment7~g~BT71 6HX Dungannon Clonmore Avenue 120 Rose Cottage Apartment7
